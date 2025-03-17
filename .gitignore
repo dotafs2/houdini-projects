@@ -1,0 +1,5 @@
+echo "*.bak" >> .gitignore
+echo "*.autosave" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "cache/" >> .gitignore
+echo "temp/" >> .gitignore
